@@ -8,8 +8,8 @@
 ## 已完成
 
 **难度标识**
-:smile:: Easy
-:triumph:: Medium
-:rage:: Hard
+* :smile:: Easy
+* :triumph:: Medium
+* :rage:: Hard
 
-- [7. Reverse Integer](https://https://github.com/DremyGit/leetcode-javascript/blob/master/src/reverse-integer) :smile:
+- 7. [Reverse Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-integer) :smile:
