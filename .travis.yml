@@ -1,0 +1,11 @@
+sudu: false
+
+language: node_js
+
+node_js: 8
+
+script: yarn test --coverage
+
+after_success:
+  - yarn global add codecov
+  - codecov
