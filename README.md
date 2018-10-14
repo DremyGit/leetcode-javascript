@@ -13,4 +13,5 @@
 * :rage:: Hard
 
 - [7. Reverse Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-integer) :smile:
+- [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
 - [650. 2 Keys Keyboard](https://github.com/DremyGit/leetcode-javascript/tree/master/src/2-keys-keyboard) :smile:
