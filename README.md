@@ -16,6 +16,7 @@
 - [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
 - [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
 - [191. Number of 1 Bits](https://github.com/DremyGit/leetcode-javascript/tree/master/src/number-of-1-bits) :smile:
+- [223. Rectangle Area](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-area) :triumph:
 - [448. Find All Numbers Disappeared in an Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-all-numbers-disappeared-in-an-array) :smile:
 - [593. Valid Square](https://github.com/DremyGit/leetcode-javascript/tree/master/src/valid-square) :triumph:
 - [650. 2 Keys Keyboard](https://github.com/DremyGit/leetcode-javascript/tree/master/src/2-keys-keyboard) :smile:
