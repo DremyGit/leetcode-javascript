@@ -20,3 +20,4 @@
 - [448. Find All Numbers Disappeared in an Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-all-numbers-disappeared-in-an-array) :smile:
 - [593. Valid Square](https://github.com/DremyGit/leetcode-javascript/tree/master/src/valid-square) :triumph:
 - [650. 2 Keys Keyboard](https://github.com/DremyGit/leetcode-javascript/tree/master/src/2-keys-keyboard) :smile:
+- [706. Design HashMap](https://github.com/DremyGit/leetcode-javascript/tree/master/src/design-hashmap) :smile:
