@@ -1,5 +1,5 @@
 import reverseKGroup from './';
-import {makeLinkList} from '../../utils';
+import {makeLinkList} from '../utils';
 
 test('Example 0', () => {
   expect(reverseKGroup(makeLinkList([]), 1))
