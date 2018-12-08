@@ -1,4 +1,4 @@
-import {makeLinkList, makeBinaryTree} from './';
+import { makeLinkList, makeBinaryTree } from './';
 
 test('makeLinkList', () => {
   expect(makeLinkList([1, 2, 3])).toEqual({

@@ -1,5 +1,5 @@
 import insertionSortList from './';
-import {makeLinkList} from '../utils';
+import { makeLinkList } from '../utils';
 
 test('Example 1', () => {
   expect(insertionSortList(makeLinkList([4, 2, 1, 3])))
