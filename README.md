@@ -13,6 +13,7 @@
 * :rage:: Hard
 
 - [7. Reverse Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-integer) :smile:
+- [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
 - [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
 - [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
 - [191. Number of 1 Bits](https://github.com/DremyGit/leetcode-javascript/tree/master/src/number-of-1-bits) :smile:
