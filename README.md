@@ -19,6 +19,7 @@
 - [187. Repeated DNA Sequences](https://github.com/DremyGit/leetcode-javascript/tree/master/src/repeated-dna-sequences) :triumph:
 - [191. Number of 1 Bits](https://github.com/DremyGit/leetcode-javascript/tree/master/src/number-of-1-bits) :smile:
 - [202. Happy Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/happy-number) :smile:
+- [204. Count Primes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/count-primes) :smile:
 - [223. Rectangle Area](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-area) :triumph:
 - [448. Find All Numbers Disappeared in an Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-all-numbers-disappeared-in-an-array) :smile:
 - [593. Valid Square](https://github.com/DremyGit/leetcode-javascript/tree/master/src/valid-square) :triumph:
