@@ -14,6 +14,7 @@
 
 - [7. Reverse Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-integer) :smile:
 - [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
+- [74. Search a 2D Matrix](https://github.com/DremyGit/leetcode-javascript/tree/master/src/search-a-2d-matrix) :smile:
 - [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
 - [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
 - [187. Repeated DNA Sequences](https://github.com/DremyGit/leetcode-javascript/tree/master/src/repeated-dna-sequences) :triumph:
