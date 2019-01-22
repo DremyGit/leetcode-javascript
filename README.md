@@ -26,6 +26,7 @@
 - [218. The Skyline Problem](https://github.com/DremyGit/leetcode-javascript/tree/master/src/the-skyline-problem) :rage:
 - [223. Rectangle Area](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-area) :triumph:
 - [448. Find All Numbers Disappeared in an Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-all-numbers-disappeared-in-an-array) :smile:
+- [463. Island Perimeter](https://github.com/DremyGit/leetcode-javascript/tree/master/src/island-perimeter) :smile:
 - [593. Valid Square](https://github.com/DremyGit/leetcode-javascript/tree/master/src/valid-square) :triumph:
 - [606. Construct String from Binary Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/construct-string-from-binary-tree) :smile:
 - [650. 2 Keys Keyboard](https://github.com/DremyGit/leetcode-javascript/tree/master/src/2-keys-keyboard) :smile:
