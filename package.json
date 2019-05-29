@@ -21,7 +21,7 @@
     "regenerator-runtime": "^0.12.1"
   },
   "scripts": {
-    "precommit": "jest --coverage ./src",
+    "precommit": "jest --coverage ./src || open ./coverage",
     "test": "jest",
     "lint": "eslint ./src --fix"
   },
