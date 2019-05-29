@@ -22,9 +22,6 @@ const findTarget = (root, k) => {
     if (arr[i] + arr[j] === k) {
       return true;
     }
-    if (typeof arr[i + 1] === 'undefined' || typeof arr[j - 1] === 'undefined') {
-      return false;
-    }
     if (arr[i] + arr[j] < k) {
       i++;
     } else {
