@@ -5,7 +5,8 @@
       "valid-jsdoc": [0],
       "object-curly-spacing": ["error", "always"],
       "max-len": ["error", {
-        "ignoreStrings": true
+        "ignoreStrings": true,
+        "code": 100
       }]
     }
 }
