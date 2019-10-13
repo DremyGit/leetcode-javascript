@@ -39,3 +39,4 @@
 - [706. Design HashMap](https://github.com/DremyGit/leetcode-javascript/tree/master/src/design-hashmap) :smile:
 - [836. Rectangle Overlap](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-overlap) :smile:
 - [865. Smallest Subtree with all the Deepest Nodes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/smallest-subtree-with-all-the-deepest-nodes) :triumph:
+- [1021. Remove Outermost Parentheses](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-outermost-parentheses) :smile:
