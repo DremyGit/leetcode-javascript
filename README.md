@@ -27,6 +27,7 @@
 - [204. Count Primes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/count-primes) :smile:
 - [218. The Skyline Problem](https://github.com/DremyGit/leetcode-javascript/tree/master/src/the-skyline-problem) :rage:
 - [223. Rectangle Area](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-area) :triumph:
+- [287. Find the Duplicate Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-the-duplicate-number) :triumph:
 - [448. Find All Numbers Disappeared in an Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-all-numbers-disappeared-in-an-array) :smile:
 - [463. Island Perimeter](https://github.com/DremyGit/leetcode-javascript/tree/master/src/island-perimeter) :smile:
 - [593. Valid Square](https://github.com/DremyGit/leetcode-javascript/tree/master/src/valid-square) :triumph:
