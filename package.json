@@ -22,7 +22,7 @@
   },
   "scripts": {
     "precommit": "jest --coverage ./src",
-    "test": "jest",
+    "test": "jest ./src",
     "lint": "eslint ./src --fix"
   },
   "jest": {

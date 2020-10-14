@@ -43,4 +43,5 @@
 - [836. Rectangle Overlap](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-overlap) :smile:
 - [865. Smallest Subtree with all the Deepest Nodes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/smallest-subtree-with-all-the-deepest-nodes) :triumph:
 - [874. Walking Robot Simulation](https://github.com/DremyGit/leetcode-javascript/tree/master/src/walking-robot-simulation) :smile:
+- [961. N-Repeated Element in Size 2N Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/n-repeated-element-in-size-2n-array) :smile:
 - [1021. Remove Outermost Parentheses](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-outermost-parentheses) :smile:
