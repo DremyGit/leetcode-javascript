@@ -24,6 +24,7 @@
 - [173. Binary Search Tree Iterator](https://github.com/DremyGit/leetcode-javascript/tree/master/src/binary-search-tree-iterator) :triumph:
 - [187. Repeated DNA Sequences](https://github.com/DremyGit/leetcode-javascript/tree/master/src/repeated-dna-sequences) :triumph:
 - [191. Number of 1 Bits](https://github.com/DremyGit/leetcode-javascript/tree/master/src/number-of-1-bits) :smile:
+- [198. House Robber](https://github.com/DremyGit/leetcode-javascript/tree/master/src/house-robber) :smile:
 - [202. Happy Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/happy-number) :smile:
 - [204. Count Primes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/count-primes) :smile:
 - [218. The Skyline Problem](https://github.com/DremyGit/leetcode-javascript/tree/master/src/the-skyline-problem) :rage:
