@@ -29,6 +29,7 @@
 - [204. Count Primes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/count-primes) :smile:
 - [218. The Skyline Problem](https://github.com/DremyGit/leetcode-javascript/tree/master/src/the-skyline-problem) :rage:
 - [223. Rectangle Area](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-area) :triumph:
+- [236. Lowest Common Ancestor of a Binary Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/lowest-common-ancestor-of-a-binary-tree) :triumph:
 - [287. Find the Duplicate Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-the-duplicate-number) :triumph:
 - [380. Insert Delete GetRandom O(1)](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insert-delete-getrandom-o1) :triumph:
 - [448. Find All Numbers Disappeared in an Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-all-numbers-disappeared-in-an-array) :smile:
