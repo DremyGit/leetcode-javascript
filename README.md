@@ -48,3 +48,4 @@
 - [874. Walking Robot Simulation](https://github.com/DremyGit/leetcode-javascript/tree/master/src/walking-robot-simulation) :smile:
 - [961. N-Repeated Element in Size 2N Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/n-repeated-element-in-size-2n-array) :smile:
 - [1021. Remove Outermost Parentheses](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-outermost-parentheses) :smile:
+- [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/subtract-the-product-and-sum-of-digits-of-an-integer) :smile:
