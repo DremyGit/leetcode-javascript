@@ -12,6 +12,7 @@
 * :triumph:: Medium
 * :rage:: Hard
 
+- [6. ZigZag Conversion](https://github.com/DremyGit/leetcode-javascript/tree/master/src/zigzag-conversion) :triumph:
 - [7. Reverse Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-integer) :smile:
 - [9. Palindrome Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/palindrome-number) :smile:
 - [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
