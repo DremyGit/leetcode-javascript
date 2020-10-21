@@ -44,6 +44,7 @@
 - [669. Trim a Binary Search Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trim-a-binary-search-tree) :smile:
 - [703. Kth Largest Element in a Stream](https://github.com/DremyGit/leetcode-javascript/tree/master/src/kth-largest-element-in-a-stream) :smile:
 - [706. Design HashMap](https://github.com/DremyGit/leetcode-javascript/tree/master/src/design-hashmap) :smile:
+- [796. Rotate String](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-string) :smile:
 - [836. Rectangle Overlap](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-overlap) :smile:
 - [865. Smallest Subtree with all the Deepest Nodes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/smallest-subtree-with-all-the-deepest-nodes) :triumph:
 - [874. Walking Robot Simulation](https://github.com/DremyGit/leetcode-javascript/tree/master/src/walking-robot-simulation) :smile:
