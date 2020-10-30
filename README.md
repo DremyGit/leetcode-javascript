@@ -52,6 +52,7 @@
 - [925. Long Pressed Name](https://github.com/DremyGit/leetcode-javascript/tree/master/src/long-pressed-name) :smile:
 - [961. N-Repeated Element in Size 2N Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/n-repeated-element-in-size-2n-array) :smile:
 - [1021. Remove Outermost Parentheses](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-outermost-parentheses) :smile:
+- [1073. Adding Two Negabinary Numbers](https://github.com/DremyGit/leetcode-javascript/tree/master/src/adding-two-negabinary-numbers) :triumph:
 - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/subtract-the-product-and-sum-of-digits-of-an-integer) :smile:
 - [1325. Delete Leaves With a Given Value](https://github.com/DremyGit/leetcode-javascript/tree/master/src/delete-leaves-with-a-given-value) :triumph:
 - [1472. Design Browser History](https://github.com/DremyGit/leetcode-javascript/tree/master/src/design-browser-history) :triumph:
