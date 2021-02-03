@@ -15,6 +15,7 @@
 - [1. Two Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/two-sum) :smile:
 - [2. Add Two Numbers](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-two-numbers) :triumph:
 - [3. Longest Substring Without Repeating Characters](https://github.com/DremyGit/leetcode-javascript/tree/master/src/longest-substring-without-repeating-characters) :triumph:
+- [4. Median of Two Sorted Arrays](https://github.com/DremyGit/leetcode-javascript/tree/master/src/median-of-two-sorted-arrays) :rage:
 - [6. ZigZag Conversion](https://github.com/DremyGit/leetcode-javascript/tree/master/src/zigzag-conversion) :triumph:
 - [7. Reverse Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-integer) :smile:
 - [9. Palindrome Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/palindrome-number) :smile:
