@@ -20,6 +20,7 @@
 - [7. Reverse Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-integer) :smile:
 - [9. Palindrome Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/palindrome-number) :smile:
 - [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
+- [42. Trapping Rain Water](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trapping-rain-water) :rage:
 - [48. Rotate Image](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-image) :triumph:
 - [70. Climbing Stairs](https://github.com/DremyGit/leetcode-javascript/tree/master/src/climbing-stairs) :smile:
 - [74. Search a 2D Matrix](https://github.com/DremyGit/leetcode-javascript/tree/master/src/search-a-2d-matrix) :smile:
