@@ -23,6 +23,7 @@
 - [12. Integer to Roman](https://github.com/DremyGit/leetcode-javascript/tree/master/src/integer-to-roman) :triumph:
 - [13. Roman to Integer](https://github.com/DremyGit/leetcode-javascript/tree/master/src/roman-to-integer) :smile:
 - [14. Longest Common Prefix](https://github.com/DremyGit/leetcode-javascript/tree/master/src/longest-common-prefix) :smile:
+- [15. 3Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/3sum) :triumph:
 - [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
 - [42. Trapping Rain Water](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trapping-rain-water) :rage:
 - [48. Rotate Image](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-image) :triumph:
