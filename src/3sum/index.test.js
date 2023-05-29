@@ -17,6 +17,6 @@ describe('15. 3Sum:', () => {
     expect(threeSum([0, 0])).toEqual([]);
   });
   test('Example 5', () => {
-    expect(threeSum([-2, -1, 0, 4, 4])).toEqual([]);
+    expect(threeSum([-2, -1, -1, 0, 4, 4])).toEqual([]);
   });
 });
