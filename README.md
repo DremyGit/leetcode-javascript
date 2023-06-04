@@ -30,6 +30,7 @@
 - [48. Rotate Image](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-image) :triumph:
 - [70. Climbing Stairs](https://github.com/DremyGit/leetcode-javascript/tree/master/src/climbing-stairs) :smile:
 - [74. Search a 2D Matrix](https://github.com/DremyGit/leetcode-javascript/tree/master/src/search-a-2d-matrix) :smile:
+- [64. Minimum Path Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-path-sum) :triumph:
 - [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
 - [92. Reverse Linked List II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-linked-list-ii) :triumph:
 - [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
