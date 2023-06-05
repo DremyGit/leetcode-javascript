@@ -33,6 +33,7 @@
 - [64. Minimum Path Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-path-sum) :triumph:
 - [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
 - [92. Reverse Linked List II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-linked-list-ii) :triumph:
+- [101. Symmetric Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/symmetric-tree) :smile:
 - [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
 - [151. Reverse Words in a String](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-words-in-a-string) :smile:
 - [173. Binary Search Tree Iterator](https://github.com/DremyGit/leetcode-javascript/tree/master/src/binary-search-tree-iterator) :triumph:
