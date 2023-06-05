@@ -69,3 +69,4 @@
 - [1325. Delete Leaves With a Given Value](https://github.com/DremyGit/leetcode-javascript/tree/master/src/delete-leaves-with-a-given-value) :triumph:
 - [1472. Design Browser History](https://github.com/DremyGit/leetcode-javascript/tree/master/src/design-browser-history) :triumph:
 - [1487. Making File Names Unique](https://github.com/DremyGit/leetcode-javascript/tree/master/src/making-file-names-unique) :triumph:
+- [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-number-of-increments-on-subarrays-to-form-a-target-array) :rage:
