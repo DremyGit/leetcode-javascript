@@ -26,6 +26,7 @@
 - [15. 3Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/3sum) :triumph:
 - [16. 3Sum Closest](https://github.com/DremyGit/leetcode-javascript/tree/master/src/3sum-closest) :triumph:
 - [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
+- [26. Remove Duplicates from Sorted Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-duplicates-from-sorted-array) :smile:
 - [42. Trapping Rain Water](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trapping-rain-water) :rage:
 - [48. Rotate Image](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-image) :triumph:
 - [70. Climbing Stairs](https://github.com/DremyGit/leetcode-javascript/tree/master/src/climbing-stairs) :smile:
