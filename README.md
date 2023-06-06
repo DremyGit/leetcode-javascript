@@ -29,11 +29,12 @@
 - [26. Remove Duplicates from Sorted Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-duplicates-from-sorted-array) :smile:
 - [42. Trapping Rain Water](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trapping-rain-water) :rage:
 - [48. Rotate Image](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-image) :triumph:
+- [64. Minimum Path Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-path-sum) :triumph:
+- [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
 - [70. Climbing Stairs](https://github.com/DremyGit/leetcode-javascript/tree/master/src/climbing-stairs) :smile:
 - [73. Set Matrix Zeroes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/set-matrix-zeroes) :triumph:
 - [74. Search a 2D Matrix](https://github.com/DremyGit/leetcode-javascript/tree/master/src/search-a-2d-matrix) :smile:
-- [64. Minimum Path Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-path-sum) :triumph:
-- [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
+- [75. Sort Colors](https://github.com/DremyGit/leetcode-javascript/tree/master/src/sort-colors) :triumph:
 - [92. Reverse Linked List II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-linked-list-ii) :triumph:
 - [101. Symmetric Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/symmetric-tree) :smile:
 - [122. Best Time to Buy and Sell Stock II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/best-time-to-buy-and-sell-stock-ii) :smile:
