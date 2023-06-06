@@ -56,6 +56,7 @@
 - [593. Valid Square](https://github.com/DremyGit/leetcode-javascript/tree/master/src/valid-square) :triumph:
 - [599. Minimum Index Sum of Two Lists](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-index-sum-of-two-lists) :smile:
 - [606. Construct String from Binary Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/construct-string-from-binary-tree) :smile:
+- [621. Task Scheduler](https://github.com/DremyGit/leetcode-javascript/tree/master/src/task-scheduler) :triumph:
 - [650. 2 Keys Keyboard](https://github.com/DremyGit/leetcode-javascript/tree/master/src/2-keys-keyboard) :smile:
 - [653. Two Sum IV - Input is a BST](https://github.com/DremyGit/leetcode-javascript/tree/master/src/two-sum-iv-input-is-a-bst) :smile:
 - [669. Trim a Binary Search Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trim-a-binary-search-tree) :smile:
