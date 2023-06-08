@@ -46,6 +46,7 @@
 - [198. House Robber](https://github.com/DremyGit/leetcode-javascript/tree/master/src/house-robber) :smile:
 - [202. Happy Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/happy-number) :smile:
 - [204. Count Primes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/count-primes) :smile:
+- [215. Kth Largest Element in an Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/kth-largest-element-in-an-array) :triumph:
 - [218. The Skyline Problem](https://github.com/DremyGit/leetcode-javascript/tree/master/src/the-skyline-problem) :rage:
 - [223. Rectangle Area](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-area) :triumph:
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/lowest-common-ancestor-of-a-binary-tree) :triumph:
