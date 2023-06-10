@@ -29,6 +29,7 @@
 - [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
 - [26. Remove Duplicates from Sorted Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-duplicates-from-sorted-array) :smile:
 - [42. Trapping Rain Water](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trapping-rain-water) :rage:
+- [46. Permutations](https://github.com/DremyGit/leetcode-javascript/tree/master/src/permutations) :triumph:
 - [48. Rotate Image](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-image) :triumph:
 - [64. Minimum Path Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-path-sum) :triumph:
 - [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
