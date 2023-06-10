@@ -25,6 +25,7 @@
 - [14. Longest Common Prefix](https://github.com/DremyGit/leetcode-javascript/tree/master/src/longest-common-prefix) :smile:
 - [15. 3Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/3sum) :triumph:
 - [16. 3Sum Closest](https://github.com/DremyGit/leetcode-javascript/tree/master/src/3sum-closest) :triumph:
+- [17. Letter Combinations of a Phone Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/letter-combinations-of-a-phone-number) :triumph:
 - [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
 - [26. Remove Duplicates from Sorted Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-duplicates-from-sorted-array) :smile:
 - [42. Trapping Rain Water](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trapping-rain-water) :rage:
