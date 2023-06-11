@@ -37,6 +37,7 @@
 - [73. Set Matrix Zeroes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/set-matrix-zeroes) :triumph:
 - [74. Search a 2D Matrix](https://github.com/DremyGit/leetcode-javascript/tree/master/src/search-a-2d-matrix) :smile:
 - [75. Sort Colors](https://github.com/DremyGit/leetcode-javascript/tree/master/src/sort-colors) :triumph:
+- [88. Merge Sorted Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/merge-sorted-array) :smile:
 - [92. Reverse Linked List II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-linked-list-ii) :triumph:
 - [101. Symmetric Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/symmetric-tree) :smile:
 - [122. Best Time to Buy and Sell Stock II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/best-time-to-buy-and-sell-stock-ii) :smile:
