@@ -53,6 +53,7 @@
 - [223. Rectangle Area](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rectangle-area) :triumph:
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/lowest-common-ancestor-of-a-binary-tree) :triumph:
 - [287. Find the Duplicate Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-the-duplicate-number) :triumph:
+- [328. Odd Even Linked List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/odd-even-linked-list) :triumph:
 - [344. Reverse String](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-string) :smile:
 - [380. Insert Delete GetRandom O(1)](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insert-delete-getrandom-o1) :triumph:
 - [448. Find All Numbers Disappeared in an Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-all-numbers-disappeared-in-an-array) :smile:
