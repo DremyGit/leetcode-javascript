@@ -43,6 +43,7 @@
 - [122. Best Time to Buy and Sell Stock II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/best-time-to-buy-and-sell-stock-ii) :smile:
 - [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
 - [151. Reverse Words in a String](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-words-in-a-string) :smile:
+- [169. Majority Element](https://github.com/DremyGit/leetcode-javascript/tree/master/src/majority-element) :smile:
 - [173. Binary Search Tree Iterator](https://github.com/DremyGit/leetcode-javascript/tree/master/src/binary-search-tree-iterator) :triumph:
 - [187. Repeated DNA Sequences](https://github.com/DremyGit/leetcode-javascript/tree/master/src/repeated-dna-sequences) :triumph:
 - [191. Number of 1 Bits](https://github.com/DremyGit/leetcode-javascript/tree/master/src/number-of-1-bits) :smile:
