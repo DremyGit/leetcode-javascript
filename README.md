@@ -40,6 +40,7 @@
 - [88. Merge Sorted Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/merge-sorted-array) :smile:
 - [92. Reverse Linked List II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-linked-list-ii) :triumph:
 - [101. Symmetric Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/symmetric-tree) :smile:
+- [108. Convert Sorted Array to Binary Search Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/convert-sorted-array-to-binary-search-tree) :smile:
 - [122. Best Time to Buy and Sell Stock II](https://github.com/DremyGit/leetcode-javascript/tree/master/src/best-time-to-buy-and-sell-stock-ii) :smile:
 - [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
 - [151. Reverse Words in a String](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-words-in-a-string) :smile:
