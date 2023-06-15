@@ -45,6 +45,7 @@
 - [136. Single Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/single-number) :smile:
 - [147. Insertion Sort List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/insertion-sort-list) :triumph:
 - [151. Reverse Words in a String](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-words-in-a-string) :smile:
+- [153. Find Minimum in Rotated Sorted Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/find-minimum-in-rotated-sorted-array) :smile:
 - [160. Intersection of Two Linked Lists](https://github.com/DremyGit/leetcode-javascript/tree/master/src/intersection-of-two-linked-lists) :smile:
 - [169. Majority Element](https://github.com/DremyGit/leetcode-javascript/tree/master/src/majority-element) :smile:
 - [173. Binary Search Tree Iterator](https://github.com/DremyGit/leetcode-javascript/tree/master/src/binary-search-tree-iterator) :triumph:
