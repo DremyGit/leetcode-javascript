@@ -74,6 +74,7 @@
 - [463. Island Perimeter](https://github.com/DremyGit/leetcode-javascript/tree/master/src/island-perimeter) :smile:
 - [509. Fibonacci Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/fibonacci-number) :smile:
 - [537. Complex Number Multiplication](https://github.com/DremyGit/leetcode-javascript/tree/master/src/complex-number-multiplication) :triumph:
+- [543. Diameter of Binary Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/diameter-of-binary-tree) :smile:
 - [593. Valid Square](https://github.com/DremyGit/leetcode-javascript/tree/master/src/valid-square) :triumph:
 - [599. Minimum Index Sum of Two Lists](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-index-sum-of-two-lists) :smile:
 - [606. Construct String from Binary Tree](https://github.com/DremyGit/leetcode-javascript/tree/master/src/construct-string-from-binary-tree) :smile:
