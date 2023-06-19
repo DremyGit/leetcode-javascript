@@ -55,6 +55,7 @@
 - [190. Reverse Bits](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-bits) :smile:
 - [191. Number of 1 Bits](https://github.com/DremyGit/leetcode-javascript/tree/master/src/number-of-1-bits) :smile:
 - [198. House Robber](https://github.com/DremyGit/leetcode-javascript/tree/master/src/house-robber) :smile:
+- [200. Number of Islands](https://github.com/DremyGit/leetcode-javascript/tree/master/src/number-of-islands) :triumph:
 - [202. Happy Number](https://github.com/DremyGit/leetcode-javascript/tree/master/src/happy-number) :smile:
 - [204. Count Primes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/count-primes) :smile:
 - [206. Reverse Linked List](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-linked-list) :smile:
