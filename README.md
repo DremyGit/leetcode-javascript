@@ -33,6 +33,7 @@
 - [46. Permutations](https://github.com/DremyGit/leetcode-javascript/tree/master/src/permutations) :triumph:
 - [48. Rotate Image](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-image) :triumph:
 - [64. Minimum Path Sum](https://github.com/DremyGit/leetcode-javascript/tree/master/src/minimum-path-sum) :triumph:
+- [66. Plus One](https://github.com/DremyGit/leetcode-javascript/tree/master/src/plus-one) :smile:
 - [67. Add Binary](https://github.com/DremyGit/leetcode-javascript/tree/master/src/add-binary) :smile:
 - [70. Climbing Stairs](https://github.com/DremyGit/leetcode-javascript/tree/master/src/climbing-stairs) :smile:
 - [73. Set Matrix Zeroes](https://github.com/DremyGit/leetcode-javascript/tree/master/src/set-matrix-zeroes) :triumph:
