@@ -31,6 +31,7 @@
 - [21. Merge Two Sorted Lists](https://github.com/DremyGit/leetcode-javascript/tree/master/src/merge-two-sorted-lists) :smile:
 - [25. Reverse Nodes in k-Group](https://github.com/DremyGit/leetcode-javascript/tree/master/src/reverse-nodes-in-k-group) :rage:
 - [26. Remove Duplicates from Sorted Array](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-duplicates-from-sorted-array) :smile:
+- [27. Remove Element](https://github.com/DremyGit/leetcode-javascript/tree/master/src/remove-element) :smile:
 - [42. Trapping Rain Water](https://github.com/DremyGit/leetcode-javascript/tree/master/src/trapping-rain-water) :rage:
 - [46. Permutations](https://github.com/DremyGit/leetcode-javascript/tree/master/src/permutations) :triumph:
 - [48. Rotate Image](https://github.com/DremyGit/leetcode-javascript/tree/master/src/rotate-image) :triumph:
